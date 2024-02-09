@@ -1,4 +1,4 @@
-
+# *THIS PRODUCT IS STILL UNDER HEAVY DEVELOPMENT*
 # Open Uptime Monitor
 
 OUM is a product built on PHP designed to monitor statuses for servers, websites, and various other entities. Its simplicity allows for easy installation on any web server equipped with PHP and a SQL/MariaDB server.
